@@ -1,5 +1,5 @@
 {
-    "name": "josephgf.your-extension-id",
+    "name": "josephgf.jumptodefinition",
     "title": "Jump to definition into Context Menu",
     "description": "Adds the menu item into the context menu of the editor to jump to definition.",
     "homepage": "https://github.com/JosephGF/brackets-jumptodefinition",
