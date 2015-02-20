@@ -4,7 +4,7 @@
     "description": "Adds the menu item into the context menu of the editor to jump to definition.",
     "homepage": "https://github.com/JosephGF/brackets-jumptodefinition",
     "version": "1.0.0",
-    "author": "Joseph Girón <josephdesign.jg@gmail.com> ()",
+    "author": "Joseph Girón (https://github.com/JosephGF)",
     "license": "MIT",
     "engines": {
         "brackets": ">=0.20.0"
