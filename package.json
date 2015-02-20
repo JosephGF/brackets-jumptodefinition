@@ -1,0 +1,18 @@
+{
+    "name": "JosephGF.your-extension-id",
+    "title": "Jump to definition into Context Menu",
+    "description": "Adds the menu item into the context menu of the editor to jump to definition.",
+    "homepage": "https://github.com/JosephGF/brackets-jumptodefinition",
+    "version": "1.0.0",
+    "author": "Joseph Girón <josephdesign.jg@gmail.com> ()",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.20.0"
+    },
+    "i18n": [ "en", "es"],
+    "package-i18n": {
+        "es": {
+            "description": "Añade un item al menú contextual para saltar a la definicion de la función."
+        }
+    }
+}
